@@ -1,0 +1,35 @@
+{
+  "edition": "29 October 2026",
+  "pages": 394,
+  "sourceFile": "Shadow-over-Silverwood-Updated-Book-v2.md",
+  "sourceSha256": "eb9370265878cb4011374964e6ba003addb178d4f3d62a404789dac3c4b343e4",
+  "artCommit": "67124c193e8b5fa3c01f0682bcd24c4230fa89a3",
+  "puzzleLocation": "West catacomb",
+  "puzzleUnlock": "Passage to the Crypt of the Founders",
+  "townAtlas": [
+    {
+      "page": 47,
+      "title": "Silverwood L0 — Undercity"
+    },
+    {
+      "page": 48,
+      "title": "Silverwood L1 — Ground level"
+    },
+    {
+      "page": 49,
+      "title": "Silverwood L2 — Tavern and Pantheon"
+    },
+    {
+      "page": 50,
+      "title": "Silverwood L3 — Gallery and lodging"
+    },
+    {
+      "page": 51,
+      "title": "Silverwood L4 — Highest rooms"
+    },
+    {
+      "page": 52,
+      "title": "Reading Silverwood’s levels"
+    }
+  ]
+}
