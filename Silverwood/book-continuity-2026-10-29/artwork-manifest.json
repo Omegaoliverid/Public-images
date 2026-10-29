@@ -1,0 +1,310 @@
+{
+  "edition": "Silverwood book artwork continuity — 29 October 2026",
+  "assets": [
+    {
+      "file": "masters/101_Silverwood.png",
+      "sha256": "efa350ad56bc4e5f395349c2439a2f17503a21f06bc969ab13995763e5caf78f",
+      "bytes": 1659270
+    },
+    {
+      "file": "masters/102_Valerion.png",
+      "sha256": "792cf6cb43aa4b0bf05d1443c465dcf6243a4fc263875a47d79d7611105c1b66",
+      "bytes": 2329931
+    },
+    {
+      "file": "masters/103_Blackwood.png",
+      "sha256": "12752929769efbc71c6daaccac56681e5db4afcc83e458421fe78f03c25e3197",
+      "bytes": 2342601
+    },
+    {
+      "file": "masters/104_Darnell.png",
+      "sha256": "6ce8470e8f98701a5c3014b6dd132fd772e4914c46ef5e57a56f23efac69558e",
+      "bytes": 2415437
+    },
+    {
+      "file": "masters/105_Penhallow.png",
+      "sha256": "53f9fdc015a762ab946488c65f4c13478f6336d595ef159580baace939c2e60a",
+      "bytes": 2320845
+    },
+    {
+      "file": "masters/106_Farman.png",
+      "sha256": "4a2ca408ee7f3c0fd2ffd93a014462779eee45a617a85d9d9fbfc7403865b5ab",
+      "bytes": 2283981
+    },
+    {
+      "file": "masters/107_Ursell.png",
+      "sha256": "9e913d10aa166196116847b322025465936bbb1040cfae4308e6438568211ebe",
+      "bytes": 2354652
+    },
+    {
+      "file": "masters/approved-banners-plate.png",
+      "sha256": "e3af601e419c4e5c62997811a875897ab9de2389c834cd94b676850eaa7e50b6",
+      "bytes": 1587241
+    },
+    {
+      "file": "approved-banners-plate.webp",
+      "sha256": "fb0e86a976470ce1aaca906feab6ec8d0db76568ea722eca124864a4a631525c",
+      "bytes": 954012
+    },
+    {
+      "file": "masters/art-4a7c89e4e5-defenders-overlook-the-enemy-army-canon.png",
+      "sha256": "717d756868987bb0ce695f242017fdc7376783fc83ddddbf4c30227aba3322a7",
+      "bytes": 4403226
+    },
+    {
+      "file": "art-4a7c89e4e5-defenders-overlook-the-enemy-army-canon.webp",
+      "sha256": "f25847a922f93750748a14902077b834c66d27fec78cabd314fe8dc3843eb6e0",
+      "bytes": 2139152
+    },
+    {
+      "file": "masters/catacombs-west-shield-wall.png",
+      "sha256": "d909ec2112d599d328f349787ae46a1b618afe6d404ab2b451b3ecc68659d9cc",
+      "bytes": 4521977
+    },
+    {
+      "file": "catacombs-west-shield-wall.webp",
+      "sha256": "67da2ad1b488005bf3a950939f91dd39e933149497c52ff512b127b058caecfb",
+      "bytes": 1887324
+    },
+    {
+      "file": "masters/npc-001-faldor-ironhewer-canon.png",
+      "sha256": "8870df5c91837c4b3014890bf40cf7ab3a0430f5331ad3c9f15650659532d42c",
+      "bytes": 4223735
+    },
+    {
+      "file": "npc-001-faldor-ironhewer-canon.webp",
+      "sha256": "dff38a70ff58637a1471f5bbf85e1532a184b9d4e7c90e17cc0e6673c571ed8f",
+      "bytes": 1739766
+    },
+    {
+      "file": "masters/npc-002-sariel-windrider-canon.png",
+      "sha256": "dd8022f7455ae723fc9ed0e6d288920b1da05c53714ed7e6556e446935e0971d",
+      "bytes": 4094695
+    },
+    {
+      "file": "npc-002-sariel-windrider-canon.webp",
+      "sha256": "8165d0259e6d7e3b3365e0f67d11fdf5744834eeafa80fd54221fc497ef45731",
+      "bytes": 1624028
+    },
+    {
+      "file": "masters/npc-006-lily-canon.png",
+      "sha256": "c18218deba04bd629a947363ddef2d36def2df72599fb1bcb063287821799074",
+      "bytes": 4074972
+    },
+    {
+      "file": "npc-006-lily-canon.webp",
+      "sha256": "77540d8793e797b2e83ce686dc6d0d82306ac83f60e73864b1a1d7c3cc9e4c7d",
+      "bytes": 1511602
+    },
+    {
+      "file": "masters/npc-007-thalion-canon.png",
+      "sha256": "d89f7bf423a2d86ce740e077fc458cea89ae23a18a6daad5ebf4c564a26c1086",
+      "bytes": 4052912
+    },
+    {
+      "file": "npc-007-thalion-canon.webp",
+      "sha256": "27b1c726994b186bfcb6dcb8719d5816e3a66fb9f0a413295b42f834f6a47c43",
+      "bytes": 1596702
+    },
+    {
+      "file": "masters/npc-008-omega-oliver-canon.png",
+      "sha256": "be29fbd9749ea9454e1f34a6e15ded352d847bcafc5ee499e324b076916603a7",
+      "bytes": 4039486
+    },
+    {
+      "file": "npc-008-omega-oliver-canon.webp",
+      "sha256": "e40db1be474019343922a0338fd841dc4f809a7bde3b2c40fe35a6f9b6abb313",
+      "bytes": 1618160
+    },
+    {
+      "file": "masters/npc-012-valor-33-canon.png",
+      "sha256": "fc42a23d8e3fc2d5062958f3ca3fd7f1316732a8605edb0a4df1b1c3d5d7816a",
+      "bytes": 4135519
+    },
+    {
+      "file": "npc-012-valor-33-canon.webp",
+      "sha256": "a4e3629ee5179fb62cadaeb7ed1bbf69eb93c5787c98a94724f210f5f7e010af",
+      "bytes": 1772594
+    },
+    {
+      "file": "masters/npc-014-drogan-ironclad-canon.png",
+      "sha256": "d91d60d05c2526d29ab0c609739f30eacffbbd26b3b3eee41b03972898d628d2",
+      "bytes": 4203863
+    },
+    {
+      "file": "npc-014-drogan-ironclad-canon.webp",
+      "sha256": "b6a2215fbc9f5bc301ce6ccc22be1d582f4e0827484da2a7cbc92f6481c170a8",
+      "bytes": 1817294
+    },
+    {
+      "file": "masters/npc-015-kiera-canon.png",
+      "sha256": "2eef07f23320abf060781f60ba944208487d0ae3084a0e587ca956d5246c4f94",
+      "bytes": 4135254
+    },
+    {
+      "file": "npc-015-kiera-canon.webp",
+      "sha256": "c11281e9a6702480d5d164ba0693bf5117db0498aeae34d65dc02558334799b2",
+      "bytes": 1526524
+    },
+    {
+      "file": "masters/npc-016-jorn-canon.png",
+      "sha256": "c0d9cd60e008e3cfe1bf4651baf1aa134e4bbdffc94e884b0fd07403a906c1c8",
+      "bytes": 4142272
+    },
+    {
+      "file": "npc-016-jorn-canon.webp",
+      "sha256": "2f4dc9ffb6402b263528d00195dd0bfef832fb49a9b6688539c8e4bbeabf5383",
+      "bytes": 1581872
+    },
+    {
+      "file": "masters/npc-020-captain-raelyn-rivers-canon.png",
+      "sha256": "afe4310dad35066b98335f089954f5c858d7779998db970764048a6f17edef23",
+      "bytes": 4011687
+    },
+    {
+      "file": "npc-020-captain-raelyn-rivers-canon.webp",
+      "sha256": "fd14114afa5079688e7791d8c363c599603e59a64e027297a15979c3b80f8fee",
+      "bytes": 1683720
+    },
+    {
+      "file": "masters/npc-021-sergeant-corwin-hill-canon.png",
+      "sha256": "d5590959bb345dd389e72d823afd6351dd319876cb7ee6229e60bbb3d1d0fd22",
+      "bytes": 4237057
+    },
+    {
+      "file": "npc-021-sergeant-corwin-hill-canon.webp",
+      "sha256": "e0b9335cb1cd310a0342f96e28e8fcb425d7307b2bb6d087306a6b76e92b068d",
+      "bytes": 1749370
+    },
+    {
+      "file": "masters/npc-036-saraphina-canon.png",
+      "sha256": "bfe5cd4a8a53eb9510dec29874a1dd9349f4a71fd0ca7f986747a8f251ad036b",
+      "bytes": 4356261
+    },
+    {
+      "file": "npc-036-saraphina-canon.webp",
+      "sha256": "3cc904e643c5da6fbfec547be0573561dcd18aaa52a47f8ad2c51df43d0114a5",
+      "bytes": 1656874
+    },
+    {
+      "file": "shield-left-moonlight-frame.webp",
+      "sha256": "283a432e737c98713ca10363c3fb8001da781d76164fa48fd37faa60f8c4c56a",
+      "bytes": 74570
+    },
+    {
+      "file": "shield-puzzle-qr.png",
+      "sha256": "4eb2de83d30b0e155194f633a4c1ba41a5abea27d08acecde636d00de0b9cfcc",
+      "bytes": 4646
+    },
+    {
+      "file": "shield-right-moonlight-frame.webp",
+      "sha256": "c096fe4661ad3a9e6c20b1880552404a74c77153187b0ac9e458ab96442d7d73",
+      "bytes": 70292
+    },
+    {
+      "file": "shield-seal-frame.webp",
+      "sha256": "cf62b89c39870e0c42a4df52b8fb17c50b5ac42f8f9e4f2e0d6b555b2a73bd51",
+      "bytes": 102094
+    },
+    {
+      "file": "shield-wall-mural.webp",
+      "sha256": "a4e1490ecf5a338aa3b7aca8912850d6d665a0e5d980b6880f34510e2220ecfb",
+      "bytes": 281344
+    },
+    {
+      "file": "masters/shield-wall-player.png",
+      "sha256": "5ac67cc1aea295b44a6297a53a16f0eeb51a84f1881fa334ae6a4bb3e4ceb1e1",
+      "bytes": 2465304
+    },
+    {
+      "file": "shield-wall-player.webp",
+      "sha256": "27f1367556b39631dc013546973ec38bc8f858e142df5f943b4025c89731baf8",
+      "bytes": 1245286
+    },
+    {
+      "file": "masters/silverwood-cover-canon.png",
+      "sha256": "71e5736f16035f8cb8373d3b44535f0ff60597e955f5d9949a656a015fef879a",
+      "bytes": 3165527
+    },
+    {
+      "file": "silverwood-cover-canon.webp",
+      "sha256": "b7121e7cd511130a828fa791770790091f385936db500e25f65590987f87594d",
+      "bytes": 737858
+    },
+    {
+      "file": "masters/silverwood-l0.png",
+      "sha256": "ef6f61122c224b8ee7b2b6443119fe1cc0f9a85ad31e52e3e897e5f8cf240247",
+      "bytes": 4048649
+    },
+    {
+      "file": "silverwood-l0.webp",
+      "sha256": "a0bfc2d39f9dc759b5e95b0e721e2e5d7bee5c641d65a143a5764eabb309925d",
+      "bytes": 1696238
+    },
+    {
+      "file": "masters/silverwood-l1.png",
+      "sha256": "1582050a06b883b9b3e916ced4990ba32e73f4700dae57b9b79dad674000886d",
+      "bytes": 3045420
+    },
+    {
+      "file": "silverwood-l1.webp",
+      "sha256": "9c5a72b6ba9ab25fc0c7ea7220e9228c8c9ef70bf829681979ac7d250b535e66",
+      "bytes": 2261182
+    },
+    {
+      "file": "masters/silverwood-l2.png",
+      "sha256": "b191a51d74bcee3dc7d2a7cba601a6cee6544ed37c72f222f247d18c61466661",
+      "bytes": 4883890
+    },
+    {
+      "file": "silverwood-l2.webp",
+      "sha256": "24f3684cc62fe4e4fbfc30e17f5e33c0cd7c35396107e3052bbd495f3b7dc2a3",
+      "bytes": 2140662
+    },
+    {
+      "file": "masters/silverwood-l3.png",
+      "sha256": "66fa7de817a9549c9baaebb7ba6f5e3c9be21e57c74054d2070e2f4f13c0152e",
+      "bytes": 4887061
+    },
+    {
+      "file": "silverwood-l3.webp",
+      "sha256": "2b4e898f70e907d58cf57d9309d0c48734091f9c795d603e52a3a32fa2b140ae",
+      "bytes": 2199898
+    },
+    {
+      "file": "masters/silverwood-l4.png",
+      "sha256": "38cbb00e38213785c1cc50a2e6af25bf0eb5f4450377d20ac44dc5f41b3c4c62",
+      "bytes": 4844660
+    },
+    {
+      "file": "silverwood-l4.webp",
+      "sha256": "2aea26dd6e5cf42ae6bcfa0365f1486ed19ab7b658957391fe31351b65d9fdff",
+      "bytes": 2150626
+    },
+    {
+      "file": "masters/silverwood-region-canon.png",
+      "sha256": "914722a7cdf895e3d80f677ec217ed7bd6b956468155173a706998fbd423703a",
+      "bytes": 4703637
+    },
+    {
+      "file": "silverwood-region-canon.webp",
+      "sha256": "6832cd080fcbc61f12e9eeff5c28fb1442146da1cb05b7f2807045c90b70f80b",
+      "bytes": 2420048
+    },
+    {
+      "file": "masters/xanthos-exterior-canon.png",
+      "sha256": "2c56f013f55de4c7759f23b683df3586f39724c775b9d459add814b3f61bad6c",
+      "bytes": 3012454
+    },
+    {
+      "file": "xanthos-exterior-canon.webp",
+      "sha256": "1769f66d6a70317cf90464cce2cd04c98e7e92a289e3226853e1a758eb278b44",
+      "bytes": 693632
+    }
+  ],
+  "preservedTown": "Author-accepted matched L0–L4, shared town frame",
+  "preservedTower": "Approved Access Revisions v02 remains in the xanthos-tower-canon-2026-10-28 folder",
+  "bannerDesigns": "Seven exact approved originals, 101–107; native composition, no regeneration",
+  "puzzle": "West catacomb shield wall opens the Crypt of the Founders; live puzzle linked from book",
+  "portraitMethod": "Built-in local emblem edits within native SVG edit regions; original faces and pixels outside edit regions preserved"
+}
