@@ -1,0 +1,26 @@
+{
+  "approval": "User approved the displayed artwork, then requested canon and book installation on 2026-11-01.",
+  "art": [
+    {
+      "file": "catacomb-abomination.png",
+      "sha256": "9d3f0111172544c3924233fae945dbbac8a60af7c1e5370fb83b3dbd06fef92d",
+      "status": "author-approved canon",
+      "approvalDate": "2026-11-01"
+    },
+    {
+      "file": "silverwood-roofed-overview.png",
+      "sha256": "170af82949905b7e213dc1ee911e589a4963e1498914fa730c3eab0549ba27ee",
+      "status": "author-approved canon",
+      "approvalDate": "2026-11-01"
+    },
+    {
+      "file": "mithrilhold-gm-map.png",
+      "sha256": "db39d99db7c06a7d014dbe061658fcf2f7988c616f93067b70a9e675aea626ae",
+      "status": "author-approved canon",
+      "approvalDate": "2026-11-01"
+    }
+  ],
+  "cover": "Existing approved town/tower illustration retained; typography revised in native book and PDF.",
+  "scope": "Roofed overview for orientation; unchanged accepted L0–L4 images govern detailed interiors. Mithrilhold image is an illustrative GM overview, not a precision battle grid.",
+  "supersedes": "New abomination supersedes C15 v01 in current book. New roofed town overview replaces cutaway maps in the reading sequence; accepted detailed floors remain in separate GM map pack."
+}
